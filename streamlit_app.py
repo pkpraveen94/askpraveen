@@ -15,7 +15,7 @@ st.markdown(
     """
     <style>
         html, body, [class*="css"] {
-            background-color: white !important;
+            background-color: black !important;
             color: black !important;
             font-family: Arial, sans-serif;
         }
@@ -26,7 +26,7 @@ st.markdown(
         }
         .stButton button {
             background-color: #007bff;
-            color: white;
+            color: white !important;
             font-weight: bold;
             border-radius: 5px;
         }
