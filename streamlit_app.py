@@ -15,7 +15,7 @@ st.markdown(
     """
     <style>
         html, body, [class*="css"] {
-            background-color: black !important;
+            background-color: white !important;
             color: black !important;
             font-family: Arial, sans-serif;
         }
